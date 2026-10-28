@@ -2,4 +2,4 @@
   <img src="baner.png" width="100%" alt="Izumi — Python Developer"/>
 </div>
 
-<h3 align="center">🐍 Python Developer | Code • Build • Repeat</h3>
+<h3 align="center">🐍 Python Developer | Website Developer | Game Developer</h3>
