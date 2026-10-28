@@ -1,41 +1,43 @@
+
 <div align="center">
-  <img src="baner.png" width="100%" alt="Izumi — Python Developer"/>
+  <img src="baner.png" width="100%" alt="Izumi — Developer"/>
+
+  <h3>🐍 Python Developer | Website Developer | Game Developer</h3>
 </div>
 
-<h3 align="center">🐍 Python Developer | Website Developer | Game Developer</h3>
+<h2 align="center">About Me</h2>
 
-<div style = "border: 1 solid #ff5733;">
-  <h3 align="center">About me</h3>
+<p align="center">
+  Hi! Welcome to my code space — where ideas turn into functional projects.
+  I work with HTML, CSS, JavaScript, Python, C++, Java, and C#,
+  exploring new technologies and building websites and applications.
+  Always learning, always coding, and always looking for new challenges. 🚀
+</p>
+
+<h2 align="center">🛠️ Technologies & Tools</h2>
+
+<div align="center">
+  <img src="html.png" width="50" height="50" alt="HTML"/>
+  <img src="css.png" width="50" height="50" alt="CSS"/>
+  <img src="JS.png" width="50" height="50" alt="JavaScript"/>
+  <img src="python.png" width="50" height="50" alt="Python"/>
+  <img src="java.png" width="50" height="50" alt="Java"/>
+  <img src="c++.png" width="50" height="50" alt="C++"/>
+  <img src="c.png" width="50" height="50" alt="C#"/>
+  <img src="gitlab.png" width="50" height="50" alt="GitLab"/>
 </div>
 
-<h5>Hi! Welcome to my code space — where ideas turn into functional projects. I work with HTML, CSS, JavaScript, Python, C++, Java, and C#, exploring new technologies and building websites and applications. Always learning, always coding, and always looking for new challenges. 🚀<br>
-
-  <div class="iconimg">
-        <img class="icons" src="img/Photoshop.png">
-        <img class="icons" src="img/Illustrator.png">
-        <img class="icons" src="img/Figma.png">
-        <img class="icons" src="img/html.png">
-        <img class="icons" src="img/css.png">
-        <img class="icons" src="img/JS.png">
-        <img class="icons" src="img/python.png">
-        <img class="icons" src="img/java.png">
-        <img class="icons" src="img/c++.png">
-        <img class="icons" src="img/c.png">
-        <img class="icons" src="img/gitlab.png">
-  </div>
 <br>
-Development<br>
-├── Python<br>
-├── C++<br>
-├── Java<br>
-├── C#<br>
-└── HTML / CSS / JavaScript<br>
-<br>
-Systems<br>
-├── Windows<br>
-└── Linux / Ubuntu<br>
-</h5>
 
+<h2 align="center">💻 Development Environment</h2>
 
+<div align="center">
 
+| Category | Technologies |
+|:---:|:---|
+| **Programming** | Python · C++ · Java · C# |
+| **Web Development** | HTML · CSS · JavaScript |
+| **Operating Systems** | Windows · Linux · Ubuntu |
+| **Version Control** | Git · GitLab |
 
+</div>
